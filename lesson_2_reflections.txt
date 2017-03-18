@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
   Initializing a repository means that git will create a hidden folder called ".git"
   where all the metadata will be stored.
@@ -15,10 +15,18 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  Let's put those files affected by changes -and only them- in staging area.
+  These are the only files on we want to commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Some situations are experimenting new features without touching the main code,
+  having a different language localization, deep code refactoring
+
 How do the diagrams help you visualize the branch structure?
+
+  Makes super easy understand where and when the code has been modified
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

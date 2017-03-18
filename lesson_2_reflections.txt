@@ -31,5 +31,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  it combine the two version together and from 2 branches we melt into one.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

@@ -30,9 +30,10 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Well, without GitHub and Git we would have harder times to syncronize changes and check-out
-    all code differences.    
+    all code differences.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    As we saw for local repos, using a separate branch leaves the master branch untouched!
+    
